@@ -8,4 +8,5 @@ user enters the first digit followed by the second digit and it automatically ge
 
 
 ## Result of the two numbers:
-![image](https://github.com/watchout254/Add-me-/assets/88248852/7a8f88d7-8fa5-4b37-b860-916a26bdef20)
+![image](https://github.com/watchout254/Add-me-/assets/88248852/56a62e73-fdc4-421f-b981-19c142c3730e)
+
