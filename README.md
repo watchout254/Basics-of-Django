@@ -1,4 +1,4 @@
-# Add-me-
+# Basics of Django...
 user enters the first digit followed by the second digit and it automatically generates their sum 
 # 1st Django Program using Django Templates 
 
