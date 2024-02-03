@@ -1,5 +1,5 @@
 # Basics of Django...
-user enters the first digit followed by the second digit and it automatically generates their sum 
+Daily lessons on django will be posted here.
 # 1st Django Program using Django Templates 
 
 ## Input form of the Two digits/Numbers:  
